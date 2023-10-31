@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910349130270",
+    "project_id": "eris-social-media",
+    "storage_bucket": "eris-social-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910349130270:android:928fc322b7cd22e7316c0f",
+        "android_client_info": {
+          "package_name": "com.omaremad.eris_social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABLy0Snc_DyXoe9p_T8rksdpwX8tYSNgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
